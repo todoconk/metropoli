@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     metropoli (0.0.0)
-      json (~> 1.4.6)
+      json
       metropoli
       sinatra (>= 1.0)
 
